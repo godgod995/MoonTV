@@ -535,5 +535,52 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+    "leba": {
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "name": "乐播资源"
+    }
+    "ck": {
+      "api": "https://www.ckzy1.com/api.php/provide/vod",
+      "name": "CK"
+    }
+     "jkun": {
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "name": "jkun"
+    }
+
+ "155": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "155"
+    }
+
+ "lsb": {
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "name": "lsb"
+    }
+
+ "hsck": {
+      "api": "https://hsckzy.vip/api.php/provide/vod",
+      "name": "黄色仓库"
+    }
+
+ "yutu": {
+      "api": "https://yutuzy10.com/api.php/provide/vod",
+      "name": "玉兔"
+    }
+
+ "madou": {
+      "api": "https://91md.me/api.php/provide/vod",
+      "name": "91麻豆"
+    }
+
+ "aosika": {
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "name": "奥斯卡资源"
+    }
+
+ "naixiang": {
+      "api": "https://Naixxzy.com/api.php/provide/vod",
+      "name": "奶香香"
+    }
   }
 }
